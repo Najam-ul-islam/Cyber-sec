@@ -1,5 +1,8 @@
 # LearnPython
 Python for Fun
+please download learnpython problem.rar folder 
+unzip it and use directly.
+
 Following Chapters are included.
 1) Chapter 2
 2) Chapter 3 p-1
